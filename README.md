@@ -8,3 +8,6 @@ THEME CHOISI : films
 
 -l’utilisateur pourra sinon cliquer sur l’onglet recherche si il cherche un film en particulier
 
+-une fois le film choisit, l’utilisateur cliquera sur l’image du film ce qui ouvrira une page contenant des  avis/note sur le film, sa date de sortie, un résumé du film et plusieurs lien conduisant à des sites/application/plateforme pour visionner  le film 
+
+
