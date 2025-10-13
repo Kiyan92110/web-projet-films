@@ -1,6 +1,8 @@
 # web-projet-films
 
-# cahier de chargeTHEME CHOISI : films
+# cahier de charge
+
+THEME CHOISI : films
 
 -en arrivant sur le site l’utilisateur va avoir le choix entre différentes catégorie de film (film du moment, film français, classique du cinéma, les plus apprécié, science-fiction, d’action, horreur, film d’animation …) il y aura ensuite une liste de film avec leur affiche et leur titre juste en dessous qui apparaitra correspondant à la catégorie qui aura été sélectionné.
 
