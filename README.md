@@ -14,4 +14,4 @@ THEME CHOISI : Cinématographie
 
 -L'utilisateur aura aussi la possibilité de mettre des films en favoris pour les retrouver facilement et rapidement 
 
--Et aussi l'utilisateur poura changer dans les parametres du compte son pseudo et photo de profile.
+-Et aussi l'utilisateur poura changer dans les parametres le theme en  sombre  ou dans les parametres du compte son pseudo et photo de profile.
